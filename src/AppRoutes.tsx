@@ -7,7 +7,7 @@ const AppRoutes = () => {
 
         <Routes>
             {/* here we are setting the layout as the response to the / route, the layout has the other components linked to it */}
-            <Route path="/" element={<Layout>Home Page</Layout>} />
+            <Route path="/" element={<Layout>.</Layout>} />
             
             <Route path="/about" element={<h1>ABOUT PAGE</h1>} />
 

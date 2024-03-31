@@ -1,6 +1,8 @@
 A FULL STACK RESPONSIVE FOOD ORDERING APP 
 [EAT24 - 100% VEG FOOD]
 
+PROJECT IS DIVIDED INTO 
+
 UPDATES:
 A full stack projects is under development, setup and landing pages are been successfully created, other features are under progress soon will be merged to the main branch.
 
